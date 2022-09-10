@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timek612
 - 👀 I’m interested in learning about the coding world and how everything works together!
-- 🌱 I’m currently learning basic web development through a coding bootcamp.  
+- 🌱 I’m currently honing my web development skills through Prime Digital Academy. 
 - 💞️ I’m looking to collaborate on nothing quite yet, but that will change soon.
 
 <!---
